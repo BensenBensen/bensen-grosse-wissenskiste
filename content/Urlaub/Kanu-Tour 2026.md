@@ -1,6 +1,6 @@
 
-![[⚙️ 00-assets/public/01-images/Kanu-Tour-Schwaanhavel-Raetzseerunde-3 1.jpg]]
-  
+ 
+![[00-assets/public/01-images/Kanu-Tour-Schwaanhavel-Raetzseerunde-3 1.jpg]]
 **Wir fahren super cool Kanu über die Mecklenburgische Seenplatte 😍🛶🌞**
 
 ---
