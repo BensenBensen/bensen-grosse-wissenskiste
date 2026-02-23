@@ -4,8 +4,6 @@ tags:
   - miete
   - nebenkosten
 ---
----
-
 ## Inhalt:
 
 - [[#Infos:|Infos:]]
