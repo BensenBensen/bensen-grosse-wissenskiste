@@ -1,6 +1,3 @@
-
----
-
 ## 🧼 Spüli-Reiniger (Alltag)
 
 **Dampfarm, schnell und ideal gegen Seifenfilm, Fett und leichten Schmutz im Bad (Waschbecken, Wanne, Fliesen, Duschwand).**
