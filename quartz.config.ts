@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "bensenbensen.github.io/bensen-grosse-wissenskiste",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "00-assets/private"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
