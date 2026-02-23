@@ -1,3 +1,7 @@
+---
+title: Siebdruck
+---
+
 **Inhalt**
 
 - [[#🍉 Siebvorbereitung|Siebvorbereitung]]
