@@ -23,7 +23,6 @@
 
 ## Route
 
-
 ![[Screenshot_20250708_220449_Maps.jpg]]
 
 **Dublin—Cork**
