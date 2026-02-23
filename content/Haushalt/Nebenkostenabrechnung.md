@@ -1,9 +1,3 @@
----
-tags:
-  - wohnen
-  - miete
-  - nebenkosten
----
 ## Inhalt:
 
 - [[#Infos:|Infos:]]
