@@ -23,12 +23,12 @@
 
 ## Route
 
+
 ![[Screenshot_20250708_220449_Maps.jpg]]
 
 **Dublin—Cork**
 
 ![[Screenshot_20250708_221202_Firefox.jpg]]
-
 
 **Cork—Schull**
 

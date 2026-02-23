@@ -65,5 +65,3 @@ Donnerstag, 5.6. – Samstag, 14.6.2025
 
 ![[schweden-route-stops.png]]
 
-
-[]
