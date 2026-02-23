@@ -1,6 +1,4 @@
 
----
-
 **Inhalt**
 
 - [[#👕 T-Shirts|👕 T-Shirts]]
