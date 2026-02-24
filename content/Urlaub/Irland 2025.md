@@ -1,5 +1,5 @@
 
-![[Cliffs-of-Moher-1.jpg]]
+![[../00-assets/01-images/Cliffs-of-Moher-1.jpg]]
 
 **Wir fahren super cool nach Irland 😍🇮🇪☘️**
 
@@ -23,7 +23,7 @@
 
 ## Route
 
-![[Screenshot_20250708_220449_Maps.jpg]]
+![[../00-assets/01-images/ireland-2025-map.jpg]]
 
 **Dublin—Cork**
 
