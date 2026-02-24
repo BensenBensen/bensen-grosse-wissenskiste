@@ -1,5 +1,5 @@
  
-![[../00-assets/public/01-images/kanu-tour-2026-mood.jpg]]
+![[../00-assets/01-images/kanu-tour-2026-mood.jpg]]
 
 **Wir fahren super cool Kanu über die Mecklenburgische Seenplatte 😍🛶🌞**
 
@@ -22,7 +22,7 @@
 - [Kanu-Tour Anbieter](https://paddel-paul.de/angebote/tourenvorschlaege/kanutour-in-das-havel-quellgebiet/)
 - [Tatsächliche Route](https://www.google.com/maps/d/u/0/edit?mid=185lM1u6TxP3Ne376GwV96Fw5bpyq2t0&usp=sharing) 
 
-![[../00-assets/public/01-images/kanu-tour-2026-route-eigene.png]]
+![[../00-assets/01-images/kanu-tour-2026-route-eigene.png]]
 
 ### Tagesrouten
 
