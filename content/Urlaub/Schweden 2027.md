@@ -1,4 +1,4 @@
-![[sweden-west-trails.png]]
+![[../00-assets/01-images/sweden-west-trails.png]]
 
 **Es wird gut, richtig gut. Wir wandern an Schwedens Westküste durch Västra Götaland von Göteborg bis hinauf nach Faleby auf den wunderschönen Hof von Johanna. Natur, Gemeinsamkeit und Spass wollen wir. Alles was nicht gelaufen werden kann darf sein. Da wird gerollt.**
 
