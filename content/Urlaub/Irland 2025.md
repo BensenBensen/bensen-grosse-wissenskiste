@@ -27,7 +27,7 @@
 
 **Dublin—Cork**
 
-![[Screenshot_20250708_221202_Firefox.jpg]]
+![[../00-assets/01-images/ireland-2025-train-tickets.jpg]]
 
 **Cork—Schull**
 

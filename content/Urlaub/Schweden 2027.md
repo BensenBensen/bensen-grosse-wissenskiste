@@ -15,7 +15,7 @@ Donnerstag, 5.6. – Samstag, 14.6.2025
 - Västra Götaland
 - [West Sweden Trails](https://www.westswedentrails.com/en)
 
-![[vaestra-goetalands lan.png]]
+![[../00-assets/01-images/sweden-2027-map-location.png]]
 
 ---
 
@@ -38,9 +38,9 @@ Donnerstag, 5.6. – Samstag, 14.6.2025
 
 **Karte:**
 
-![[sweden-3.png]]
+![[../00-assets/01-images/sweden-2027-train-connection.png]]
 
-![[Bildschirmfoto 2024-10-08 um 23.22.16.png]]
+![[../00-assets/01-images/sweden-2027-route-1.png]]
 
 ---
 
@@ -50,7 +50,7 @@ Donnerstag, 5.6. – Samstag, 14.6.2025
 
 [Stenaline](https://booking.stenaline.de/book#booking/SailingsFaresByTripType)
 
-![[stenaline-schweden-25.png]]
+![[../00-assets/01-images/sweden-2027-ferry-2.png]]
 
 
 
@@ -63,5 +63,5 @@ Donnerstag, 5.6. – Samstag, 14.6.2025
 
 ## Bilder
 
-![[schweden-route-stops.png]]
+![[../00-assets/01-images/sweden-2027-alternative-route-1.png]]
 
