@@ -1,4 +1,4 @@
-![[../00-assets/01-images/sweden-west-trails.png]]
+![[../00-assets/public/01-images/sweden-west-trails.png]]
 
 **Es wird gut, richtig gut. Wir wandern an Schwedens Westküste durch Västra Götaland von Göteborg bis hinauf nach Faleby auf den wunderschönen Hof von Johanna. Natur, Gemeinsamkeit und Spass wollen wir. Alles was nicht gelaufen werden kann darf sein. Da wird gerollt.**
 
@@ -15,7 +15,7 @@ Donnerstag, 5.6. – Samstag, 14.6.2025
 - Västra Götaland
 - [West Sweden Trails](https://www.westswedentrails.com/en)
 
-![[../00-assets/01-images/sweden-2027-map-location.png]]
+![[../00-assets/public/01-images/sweden-2027-map-location.png]]
 
 ---
 
@@ -38,9 +38,9 @@ Donnerstag, 5.6. – Samstag, 14.6.2025
 
 **Karte:**
 
-![[../00-assets/01-images/sweden-2027-train-connection.png]]
+![[../00-assets/public/01-images/sweden-2027-train-connection.png]]
 
-![[../00-assets/01-images/sweden-2027-route-1.png]]
+![[../00-assets/public/01-images/sweden-2027-route-1.png]]
 
 ---
 
@@ -50,7 +50,7 @@ Donnerstag, 5.6. – Samstag, 14.6.2025
 
 [Stenaline](https://booking.stenaline.de/book#booking/SailingsFaresByTripType)
 
-![[../00-assets/01-images/sweden-2027-ferry-2.png]]
+![[../00-assets/public/01-images/sweden-2027-ferry-2.png]]
 
 
 
@@ -63,5 +63,5 @@ Donnerstag, 5.6. – Samstag, 14.6.2025
 
 ## Bilder
 
-![[../00-assets/01-images/sweden-2027-alternative-route-1.png]]
+![[../00-assets/public/01-images/sweden-2027-alternative-route-1.png]]
 

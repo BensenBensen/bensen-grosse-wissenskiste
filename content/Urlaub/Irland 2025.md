@@ -1,5 +1,5 @@
 
-![[../00-assets/01-images/Cliffs-of-Moher-1.jpg]]
+![[../00-assets/public/01-images/Cliffs-of-Moher-1.jpg]]
 
 **Wir fahren super cool nach Irland 😍🇮🇪☘️**
 
@@ -23,11 +23,11 @@
 
 ## Route
 
-![[../00-assets/01-images/ireland-2025-map.jpg]]
+![[../00-assets/public/01-images/ireland-2025-map.jpg]]
 
 **Dublin—Cork**
 
-![[../00-assets/01-images/ireland-2025-train-tickets.jpg]]
+![[../00-assets/public/01-images/ireland-2025-train-tickets.jpg]]
 
 **Cork—Schull**
 
